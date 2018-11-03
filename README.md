@@ -1,1 +1,1 @@
-# settings
+# Settings for formatters and editors
