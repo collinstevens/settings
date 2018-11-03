@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  "editor.trimAutoWhitespace": true,
+  "files.autoSave": "onWindowChange",
+  "html.format.wrapAttributes": "force-aligned",
+  "tslint.alwaysShowStatus": true,
+  "tslint.nodePath": "%appdata%/npm/node_modules"
+}
