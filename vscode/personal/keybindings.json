@@ -1,0 +1,11 @@
+// Place in C:\Users\USER_NAME\AppData\Roaming\Code\User
+[
+  {
+    "key": "ctrl+,",
+    "command": "-workbench.action.openSettings"
+  },
+  {
+    "key": "ctrl+,",
+    "command": "workbench.action.openSettingsJson"
+  }
+]
