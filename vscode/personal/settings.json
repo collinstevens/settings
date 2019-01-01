@@ -7,6 +7,9 @@
   "editor.formatOnSave": true,
   "editor.trimAutoWhitespace": true,
   "explorer.openEditors.visible": 0,
+  "files.associations": {
+    "*.json": "jsonc"
+  },
   "files.autoSave": "onWindowChange",
   "html.format.wrapAttributes": "force-aligned",
   "tslint.alwaysShowStatus": true,
